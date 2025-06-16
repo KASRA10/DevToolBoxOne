@@ -2,9 +2,9 @@
 
 namespace DevToolBoxOne
 {
-	public partial class Form1 : Form
+	public partial class DevDash : Form
 	{
-		public Form1()
+		public DevDash()
 		{
 			InitializeComponent();
 		}
