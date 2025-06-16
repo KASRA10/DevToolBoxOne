@@ -50,9 +50,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
 			this.Header_PNL.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.Header_PNL.BackColor = System.Drawing.SystemColors.ButtonFace;
-			this.Header_PNL.Location = new System.Drawing.Point(19, 7);
+			this.Header_PNL.Location = new System.Drawing.Point(16, 7);
 			this.Header_PNL.Name = "Header_PNL";
-			this.Header_PNL.Size = new System.Drawing.Size(1146, 50);
+			this.Header_PNL.Size = new System.Drawing.Size(1150, 50);
 			this.Header_PNL.TabIndex = 0;
 			// 
 			// TabTools_TLB
@@ -153,7 +153,7 @@
 			this.panel1.BackColor = System.Drawing.SystemColors.ButtonFace;
 			this.panel1.Location = new System.Drawing.Point(16, 762);
 			this.panel1.Name = "panel1";
-			this.panel1.Size = new System.Drawing.Size(1146, 50);
+			this.panel1.Size = new System.Drawing.Size(1150, 50);
 			this.panel1.TabIndex = 1;
 			// 
 			// DevDashBoard_FRM
