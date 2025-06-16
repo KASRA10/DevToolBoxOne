@@ -1,0 +1,11 @@
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\bin\Debug\DevToolBoxOne.exe.config
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\bin\Debug\DevToolBoxOne.exe
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\bin\Debug\DevToolBoxOne.pdb
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.csproj.AssemblyReference.cache
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.DevDashBoard_FRM.resources
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.Properties.Resources.resources
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.csproj.GenerateResource.cache
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.exe
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.pdb
+E:\WORKSPACE\DevToolBoxOne\DevToolBoxOne\DevToolBoxOne\obj\Debug\DevToolBoxOne.exe.config

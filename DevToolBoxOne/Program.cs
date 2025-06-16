@@ -16,7 +16,7 @@ namespace DevToolBoxOne
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new DevDash());
+			Application.Run(new DevDashBoard_FRM());
 		}
 	}
 }

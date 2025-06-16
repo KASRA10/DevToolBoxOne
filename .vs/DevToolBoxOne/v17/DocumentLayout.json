@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|e:\\workspace\\devtoolboxone\\devtoolboxone\\devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|solutionrelative:devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|e:\\workspace\\devtoolboxone\\devtoolboxone\\devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DevToolBoxOne||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|solutionrelative:devtoolboxone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453EA656-F294-4C9D-B433-601326D975CF}|DevToolBoxOne\\DevToolBoxOne.csproj|e:\\workspace\\devtoolboxone\\devtoolboxone\\devtoolboxone\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +24,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DevToolBoxOne",
+              "DocumentMoniker": "E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\DevToolBoxOne\\DevToolBoxOne.csproj",
+              "RelativeDocumentMoniker": "DevToolBoxOne\\DevToolBoxOne.csproj",
+              "ToolTip": "E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\DevToolBoxOne\\DevToolBoxOne.csproj",
+              "RelativeToolTip": "DevToolBoxOne\\DevToolBoxOne.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T16:15:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\WORKSPACE\\DevToolBoxOne\\DevToolBoxOne\\DevToolBoxOne\\Form1.cs",
               "RelativeDocumentMoniker": "DevToolBoxOne\\Form1.cs",
