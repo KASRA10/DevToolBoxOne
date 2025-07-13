@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Ignore Spelling: Shamsi FRM
+
+using System;
 using System.Windows.Forms;
 
 namespace DevToolBoxOne.Forms.Converter
@@ -20,6 +22,7 @@ namespace DevToolBoxOne.Forms.Converter
             if (string.IsNullOrWhiteSpace(Year_TB.Text))
             {
                 DialogResult result = MessageBox.Show("Year Is Empty", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
             else
             {
@@ -31,18 +34,21 @@ namespace DevToolBoxOne.Forms.Converter
                     {
                         DialogResult result = MessageBox.Show($"Year should be Between 1900 and {_CorrentYear}", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         Year_TB.Clear();
+                        return;
                     }
                 }
                 catch (Exception ex)
                 {
 
-                    DialogResult result = MessageBox.Show($"Please Enter Correct Number\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    DialogResult result = MessageBox.Show($"Please Enter Correct Number Of Year\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
             }
 
             if (string.IsNullOrWhiteSpace(Month_TB.Text))
             {
                 DialogResult result = MessageBox.Show("Month Is Empty", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
             else
             {
@@ -53,18 +59,21 @@ namespace DevToolBoxOne.Forms.Converter
                     {
                         DialogResult result = MessageBox.Show("Month should be Between 1 and 12", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         Month_TB.Clear();
+                        return;
                     }
                 }
                 catch (Exception ex)
                 {
 
-                    DialogResult result = MessageBox.Show($"Please Enter Correct Number\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    DialogResult result = MessageBox.Show($"Please Enter Correct Number Of Month\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
             }
 
             if (string.IsNullOrWhiteSpace(Day_TB.Text))
             {
                 DialogResult result = MessageBox.Show("Day Is Empty", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
             else
             {
@@ -75,13 +84,16 @@ namespace DevToolBoxOne.Forms.Converter
                     {
                         DialogResult result = MessageBox.Show("Day should be Between 1 and 31", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         Day_TB.Clear();
+                        return;
                     }
                 }
                 catch (Exception ex)
                 {
 
-                    DialogResult result = MessageBox.Show($"Please Enter Correct Number\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    DialogResult result = MessageBox.Show($"Please Enter Correct Number Of Day\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
+
             }
 
             if (_year != 0 && _month != 0 && _day != 0)
